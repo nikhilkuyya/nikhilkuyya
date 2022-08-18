@@ -8,6 +8,9 @@ I Design, Develop and Deploy Web Application which can empower in digital transf
 
 ## Technologies
 
+## Connect with Me
+[![Nikhil Kuyya](https://img.shields.io/twitter/follow/nikhilkuyya?label=Nikhil%20Kuyya&style=social)](https://twitter.com/NikhilKuyya)
+
 
 - 🔭 I’m currently looking for freelancing and new exciting opportunites
 - 🌱 I’m currently unlearning and relearning fundamentals of web and developement
