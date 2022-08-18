@@ -1,9 +1,8 @@
 # Namaste, 👨🏼‍💻
+I am Nikhil Kuyya, 5+ years of professional full stack developer experience.
+
+## About Me
 ![github-banner](https://user-images.githubusercontent.com/22116816/185395501-8a5c4e4d-1996-4641-b2df-83120c2cde42.png)
-
- I am Nikhil Kuyya, 5+ years of professional full stack developer experience.
-
-### About Me
 
 I Design, Develop and Deploy Web Application which can empower in digital transformation and provide value in process of your business.
 
