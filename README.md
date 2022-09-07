@@ -1,5 +1,5 @@
 # Namaste, 👨🏼‍💻
-I am Nikhil Kuyya, 5+ years of professional full stack developement experience.
+I am Nikhil Kuyya, 5+ years of professional full stack developement experience with specialization in Front End Developement.
 
 ## About Me
 ![github-banner](https://user-images.githubusercontent.com/22116816/185395501-8a5c4e4d-1996-4641-b2df-83120c2cde42.png)
@@ -11,7 +11,7 @@ I Design, Develop and Deploy Web Application which can empower in digital transf
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 
@@ -22,10 +22,10 @@ I Design, Develop and Deploy Web Application which can empower in digital transf
 [![Gmail Badge](https://img.shields.io/badge/-jobsfornikhilkuyya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jobsfornikhilkuyya@gmail.com)](mailto:jobsfornikhilkuyya@gmail.com)
 
 
-- 🔭 I’m currently looking for freelancing and new exciting opportunites
+- 🔭 I’m currently looking for new exciting opportunites
 - 🌱 I’m currently unlearning and learning fundamentals of web and developement
-- 👯 I’m looking to collaborate for any discuss new opportunities
-- 🤔 I’m looking for help with my career transistion to good workspace opportunites
+- 👯 I’m looking to collaborate for js/web applications
+- 🤔 I’m looking for help with career transistion to good workspace opportunites
 - 💬 Ask me about web application developement and fundamentals
 - 📫 How to reach me: jobsfornikhilkuyya@gmail.com
 - ⚡ Fun fact: morning person
