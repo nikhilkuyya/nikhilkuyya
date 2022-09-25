@@ -2,7 +2,7 @@
 I am Nikhil Kuyya, 5+ years of professional software developer experience with specialization in Front-End Engineer.
 
 ## About Me
-![github-banner](https://user-images.githubusercontent.com/22116816/185395501-8a5c4e4d-1996-4641-b2df-83120c2cde42.png)
+<!-- ![github-banner](https://user-images.githubusercontent.com/22116816/185395501-8a5c4e4d-1996-4641-b2df-83120c2cde42.png) -->
 
 I Design, Develop and Deploy Web Application which can empower in digital transformation and provide value in process of your business.
 
