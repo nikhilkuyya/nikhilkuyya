@@ -1,5 +1,5 @@
-# Namaste, 👨🏼‍💻
-I am Nikhil Kuyya, 5+ years of professional full stack developement experience with specialization in Front End Developement.
+# Hi Namaste 👨🏼‍💻
+I am Nikhil Kuyya, 5+ years of professional software developer experience with specialization in Front-End Engineer.
 
 ## About Me
 ![github-banner](https://user-images.githubusercontent.com/22116816/185395501-8a5c4e4d-1996-4641-b2df-83120c2cde42.png)
