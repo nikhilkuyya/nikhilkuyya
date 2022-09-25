@@ -12,8 +12,9 @@ I Design, Develop and Deploy Web Application which can empower in digital transf
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
+
 
 
 
@@ -24,10 +25,6 @@ I Design, Develop and Deploy Web Application which can empower in digital transf
 [![Gmail Badge](https://img.shields.io/badge/-jobsfornikhilkuyya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jobsfornikhilkuyya@gmail.com)](mailto:jobsfornikhilkuyya@gmail.com)
 
 
-- 🔭 I’m currently looking for new exciting opportunites
 - 🌱 I’m currently unlearning and learning fundamentals of web and developement
-- 👯 I’m looking to collaborate for js/web applications
-- 🤔 I’m looking for help with career transistion to good workspace opportunites
+- 🤔 I’m looking for learn and grow by doing more practise and following software priniciples
 - 💬 Ask me about web application developement and fundamentals
-- 📫 How to reach me: jobsfornikhilkuyya@gmail.com
-- ⚡ Fun fact: morning person
